@@ -1,0 +1,169 @@
+@media only screen and (min-width:320px) and (max-width:479px) {
+
+    #second-row {
+        text-align: center;
+    }
+
+    #overlay-content {
+
+        margin-left: 30%;
+        padding-top: 8%;
+    }
+
+    #overlay-content-2 {
+
+        margin-left: 3%;
+        padding-top: 8%;
+    }
+
+    nav img {
+        height: 4.25rem;
+        width: 4.25rem;
+    }
+    
+    .section-06 a{
+        padding-bottom: 1%;
+    }
+    
+    .blog-box h3{
+        font-size: 0.95rem;
+    }
+    
+    .section-06 {
+        margin-top: 90%;
+    }
+    
+    .section-06 .container{
+        width: 100%;
+    }
+    
+    #first-row{
+    height: 37.875rem;
+    
+}
+
+
+}
+
+@media only screen and (min-width:480px) and (max-width:766px) {
+
+    #second-row {
+        text-align: center;
+    }
+
+    #overlay-content {
+
+        margin-left: 30%;
+        padding-top: 20%;
+    }
+
+    #overlay-content-2 {
+
+        margin-left: 28%;
+        padding-top: 2%;
+    }
+    
+    
+    
+    .section-06 a{
+        padding-bottom: 1%;
+    }
+    
+    .blog-box h3{
+        font-size: 0.95rem;
+    }
+    
+    .section-06 {
+        margin-top: 110%;
+    }
+    
+    .section-06 .container{
+        width: 100%;
+    }
+    
+    #first-row{
+    height: 37.875rem;
+    
+}
+
+
+}
+
+
+@media only screen and (min-width:767px) and (max-width:990px) {
+
+    #second-row {
+        text-align: center;
+    }
+
+    #overlay-content {
+
+        margin-left: 22%;
+        padding-top: 20%;
+    }
+
+    #overlay-content-2 {
+
+        margin-left: 22%;
+        padding-top: 2%;
+    }
+    
+    .section-06 a{
+        padding-bottom: 1%;
+    }
+    
+    .blog-box h3{
+        font-size: 0.95rem;
+    }
+    
+    .section-06 {
+        margin-top: 80%;
+    }
+    
+    .section-06 .container{
+        width: 100%;
+    }
+    
+    #first-row{
+    height: 37.875rem;
+    
+}
+
+}
+
+
+@media only screen and (min-width:991px) and (max-width:1199px) {
+
+    #overlay-content {
+
+        margin-left: 22%;
+        padding-top: 20%;
+    }
+
+    #overlay-content-2 {
+
+        margin-left: 22%;
+        padding-top: 2%;
+    }
+
+    #form a {
+        margin-left: -4.35rem;
+    }
+
+    #form i {
+        font-size: 1rem;
+    }
+
+}
+
+
+@media only screen and (min-width:1200px) and (max-width:1299px) {
+    
+    .section-06 .container{
+        width: 92.5%;
+    }
+    
+}
+
+
+@media only screen and (min-width:1300px) {}

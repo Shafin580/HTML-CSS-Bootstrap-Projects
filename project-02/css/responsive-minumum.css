@@ -1,0 +1,352 @@
+@media only screen and (min-width:320px) and (max-width:479px) {
+
+    .navbar-brand {
+    margin-left: 0;
+}
+    
+    #carousel {
+    margin-top: 1rem;
+}
+    
+    .c-item-content {
+    padding-bottom: 0.5rem;
+}
+    
+    .carousel-item h1{
+        
+        font-size: 3rem;
+        
+    }
+    
+ 
+    
+    
+    
+    .trainer-image-01::after {
+
+    content: "";
+    display: block;
+    position: absolute;
+    left: 45%;
+    top: 91.5%;
+    margin-top: -0.625rem;
+    width: 0;
+    height: 0;
+    border-top: 1.25rem solid transparent;
+    border-bottom: 1.25rem solid white;
+    border-left: 1.25rem solid transparent;
+    border-right: 1.25rem solid transparent;
+
+
+}
+    
+    .trainer-image-02::after {
+
+    content: "";
+    display: block;
+    position: absolute;
+    right: 45%;
+    top: 92%;
+    margin-top: -0.625rem;
+    width: 0;
+    height: 0;
+    border-top: 1.25rem solid transparent;
+    border-bottom: 1.25rem solid white;
+    border-left: 1.25rem solid transparent;
+    border-right: 1.25rem solid transparent;
+
+
+}
+    
+    .trainer-image-03::after {
+
+    content: "";
+    display: block;
+    position: absolute;
+    right: 45%;
+    top: 92%;
+    margin-top: -0.625rem;
+    width: 0;
+    height: 0;
+    border-top: 1.25rem solid transparent;
+    border-bottom: 1.25rem solid white;
+    border-left: 1.25rem solid transparent;
+    border-right: 1.25rem solid transparent;
+
+
+}
+    
+    .form-overlay{
+        
+        position: relative;
+        
+    }
+    
+    .icons i{
+        
+        padding-right: 6%;
+        
+    }
+    
+    .icons{
+        
+        margin-right: 0;
+        margin-top: 5%;
+        
+    }
+    
+    .second a{
+        
+        padding-left: 0;
+        
+        
+    }
+    
+}
+
+.embed-responsive-1by1::before {
+    padding-top: 133%;
+}
+
+
+
+
+@media only screen and (min-width:480px) and (max-width:766px) {
+
+    
+    .navbar-brand {
+    margin-left: 0;
+}
+    
+    #carousel {
+    margin-top: 10rem;
+}
+    
+    .c-item-content {
+    padding-bottom: 0.5rem;
+}
+    
+    .carousel-item h1{
+        
+        font-size: 3rem;
+        
+    }
+    
+ 
+    
+    
+    
+    .trainer-image-01::after {
+
+    content: "";
+    display: block;
+    position: absolute;
+    left: 45%;
+    top: 91.5%;
+    margin-top: -0.625rem;
+    width: 0;
+    height: 0;
+    border-top: 1.25rem solid transparent;
+    border-bottom: 1.25rem solid white;
+    border-left: 1.25rem solid transparent;
+    border-right: 1.25rem solid transparent;
+
+
+}
+    
+    .trainer-image-02::after {
+
+    content: "";
+    display: block;
+    position: absolute;
+    right: 45%;
+    top: 92%;
+    margin-top: -0.625rem;
+    width: 0;
+    height: 0;
+    border-top: 1.25rem solid transparent;
+    border-bottom: 1.25rem solid white;
+    border-left: 1.25rem solid transparent;
+    border-right: 1.25rem solid transparent;
+
+
+}
+    
+    .trainer-image-03::after {
+
+    content: "";
+    display: block;
+    position: absolute;
+    right: 45%;
+    top: 92%;
+    margin-top: -0.625rem;
+    width: 0;
+    height: 0;
+    border-top: 1.25rem solid transparent;
+    border-bottom: 1.25rem solid white;
+    border-left: 1.25rem solid transparent;
+    border-right: 1.25rem solid transparent;
+
+
+}
+    
+    .form-overlay{
+        
+        position: relative;
+        
+    }
+    
+    .icons i{
+        
+        padding-right: 6%;
+        
+    }
+    
+    .icons{
+        
+        margin-right: 0;
+        margin-top: 5%;
+        
+    }
+    
+    .second a{
+        
+        padding-left: 0;
+        
+        
+    }
+    
+    
+
+
+}
+
+
+@media only screen and (min-width:767px) and (max-width:990px) {
+    
+    
+    #carousel {
+    margin-top: 8rem;
+}
+    
+    .navbar-brand {
+    margin-left: 0;
+}
+    
+    .nav-item {
+    margin-right: 0.3rem;
+}
+    
+    .navbar-nav {
+    margin-right: 0rem;
+}
+    
+    .form-overlay{
+        
+        position: relative;
+        
+    }
+    
+    .second a{
+        
+        padding-left: 0;
+        
+        
+    }
+    
+    .icons i{
+        
+        padding-right: 5%;
+        
+    }
+    
+    .icons{
+        
+        margin-right: 0%;
+        margin-top: 2%;
+        
+    }
+    
+    .trainer-image-01::after {
+
+    content: "";
+    display: block;
+    position: absolute;
+    left: 85.5%;
+    top: 50%;
+    margin-top: -0.625rem;
+    width: 0;
+    height: 0;
+    border-top: 1.25rem solid transparent;
+    border-bottom: 1.25rem solid transparent;
+    border-left: 1.25rem solid transparent;
+    border-right: 1.25rem solid white;
+
+
+}
+    
+    .trainer-image-02::after {
+
+    content: "";
+    display: block;
+    position: absolute;
+    left: 85.5%;
+    top: 50%;
+    margin-top: -0.625rem;
+    width: 0;
+    height: 0;
+    border-top: 1.25rem solid transparent;
+    border-bottom: 1.25rem solid transparent;
+    border-left: 1.25rem solid transparent;
+    border-right: 1.25rem solid white;
+
+
+}
+    
+    .trainer-image-03::after {
+
+    content: "";
+    display: block;
+    position: absolute;
+    left: 85.5%;
+    top: 50%;
+    margin-top: -0.625rem;
+    width: 0;
+    height: 0;
+    border-top: 1.25rem solid transparent;
+    border-bottom: 1.25rem solid transparent;
+    border-left: 1.25rem solid transparent;
+    border-right: 1.25rem solid white;
+
+
+}
+
+   
+}
+
+
+@media only screen and (min-width:991px) and (max-width:1199px) {
+
+   .nav-item {
+    margin-right: 0.5rem;
+}
+    
+    .navbar-nav {
+    margin-right: 0rem;
+}
+
+}
+
+
+@media only screen and (min-width:1200px) and (max-width:1299px) {
+    
+    .form-overlay{
+        
+        padding: 10%;
+        
+    }
+    
+}
+
+
+@media only screen and (min-width:1300px) {}

@@ -1,0 +1,546 @@
+
+
+/*Section 01------------------------------*/
+
+.section-01 {
+    height: 45rem;
+    background-image: url(../images/section-01-image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    position: relative;
+}
+
+.navbar-brand {
+    margin-left: 3rem;
+}
+
+.navbar-nav {
+    margin-right: 7rem;
+}
+
+.nav-item {
+    margin-right: 2.5rem;
+}
+
+.overlay {
+    background-color: rgba(207, 128, 27, 0.2);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+
+}
+
+
+
+#carousel {
+    margin-top: 20rem;
+}
+
+.c-item-content {
+    padding-bottom: 1.5rem;
+}
+
+.carousel-item h1 {
+    font-size: 4.5rem;
+}
+
+.c-b {
+    background-color: orangered !important;
+    color: white !important;
+}
+
+.text-color {
+    color: red;
+}
+
+
+
+/*section 02-------------------------------------*/
+
+
+.embed-responsive-1by1::before {
+    padding-top: 120%;
+}
+
+.section-02 {
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.section-02-title {
+    margin-bottom: 3%;
+}
+
+.section-02-title h3 {
+    padding-left: 0.5rem;
+    border-left: 4px solid orangered;
+}
+
+.section-02-title h1 {
+    padding-left: 0.5rem;
+    border-left: 4px solid orangered;
+}
+
+.section-02-title p {
+    font-weight: 300;
+}
+
+.section-02-box-01,
+.section-02-box-02,
+.section-02-box-03,
+.section-02-box-04 {
+    color: white;
+    line-height: 1.5;
+    padding: 1.5rem;
+    margin-bottom: 0.425rem;
+    margin-right: 0.425rem;
+}
+
+
+
+.section-02-box-01 {
+    background-color: rebeccapurple;
+}
+
+.section-02-box-02 {
+    background-color: deepskyblue;
+}
+
+.section-02-box-03 {
+    background-color: limegreen;
+}
+
+.section-02-box-04 {
+    background-color: orangered;
+}
+
+.box-icon i {
+    padding-bottom: 0.8rem;
+    font-size: 1.5rem;
+}
+
+iframe {
+    margin-top: 3rem;
+}
+
+/*Section 03----------------------------------*/
+
+
+.section-03 {
+    height: 20rem;
+    background-image: url(../images/section-01-image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-bottom: 7%;
+
+}
+
+.section-03-overlay {
+
+    background-color: rgba(207, 128, 27, 0.2);
+    height: 100%;
+    width: 100%;
+    color: white;
+
+}
+
+.section-03-overlay h2 {
+    padding-top: 4%;
+    padding-bottom: 2%;
+}
+
+.section-03-overlay p {
+    padding-bottom: 2%;
+}
+
+/*Section 04---------------------------------*/
+
+.section-04 {
+    margin-bottom: 7%;
+}
+
+#s-4-con-01 {
+
+    margin-bottom: 4%;
+}
+
+#s-4-con-02 {
+    margin-bottom: 4%;
+}
+
+.l-image img {
+    width: 100%;
+    
+
+}
+
+#l-link img {
+    width: 100%;
+    margin-bottom: 10%;
+
+}
+
+#l-link a{
+    
+    padding: 0;
+    border: 0;
+}
+
+.l-title {
+    padding-bottom: 3%;
+}
+
+.l-paragraph {
+    padding-bottom: 5%;
+}
+
+.l-view a {
+    text-decoration: none;
+    color: orangered;
+}
+
+#link a.active{
+    
+    background-color: transparent;
+    color: orangered;
+    
+    
+    
+}
+
+#link a{
+    
+    margin-right: 2rem;
+    
+}
+
+
+
+/*Section 05------------------------------*/
+
+
+.section-05 {
+    height: 57rem;
+    background-image: url(../images/section-01-image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.section-05-overlay {
+
+    background-color: rgba(207, 128, 27, 0.2);
+    height: 100%;
+    width: 100%;
+    overflow-x: scroll;
+
+}
+
+.section-05-overlay-title h3 {
+
+    padding-top: 2%;
+    padding-bottom: 1.5%;
+    display: inline-block;
+    border-bottom: 3px solid orangered;
+    font-weight: 700;
+    color: white;
+
+
+
+}
+
+.section-05-overlay-title p {
+
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-weight: 300;
+    color: white;
+
+}
+
+
+
+.ex-title-gym {
+    color: orangered;
+}
+
+.ex-title-yoga {
+    color: aqua;
+}
+
+.ex-title-body {
+    color: green;
+}
+
+.ex-title-cardio {
+    color: red;
+}
+
+.ex-title-running {
+    color: darkgreen;
+}
+
+.ex-title-box {
+    color: blue;
+}
+
+.ex-title-crossfit {
+    color: darkred;
+}
+
+.ex-time {
+    font-weight: 400;
+}
+
+.ex-instruction {
+    font-weight: 200;
+
+}
+
+.table-bordered td {
+
+    border: 2px solid grey;
+
+}
+
+.table-bordered th {
+
+    border: 2px solid grey;
+
+}
+
+.table-light th,
+.table-light thead th {
+    border: 2px solid grey;
+}
+
+
+
+
+
+/*Section 06------------------------------------*/
+
+
+.section-06 {
+    background-color: #f7f7f7;
+    margin-bottom: 6%;
+}
+
+.con {
+    padding-top: 6%;
+}
+
+.trainer-image-01 img,
+.trainer-image-02 img,
+.trainer-image-03 img {
+
+    width: 100%;
+    height: 21rem;
+
+}
+
+.trainer-info {
+    padding: 3rem;
+
+}
+
+.trainer {
+
+    background-color: white;
+
+}
+
+.trainer-image-01::after {
+
+    content: "";
+    display: block;
+    position: absolute;
+    left: 89.5%;
+    top: 50%;
+    margin-top: -0.625rem;
+    width: 0;
+    height: 0;
+    border-top: 1.25rem solid transparent;
+    border-bottom: 1.25rem solid transparent;
+    border-left: 1.25rem solid transparent;
+    border-right: 1.25rem solid white;
+
+
+}
+
+.trainer-image-02::after {
+
+    content: "";
+    display: block;
+    position: absolute;
+    right: 45%;
+    top: 92%;
+    margin-top: -0.625rem;
+    width: 0;
+    height: 0;
+    border-top: 1.25rem solid transparent;
+    border-bottom: 1.25rem solid white;
+    border-left: 1.25rem solid transparent;
+    border-right: 1.25rem solid transparent;
+
+
+}
+
+.trainer-image-03::after {
+
+    content: "";
+    display: block;
+    position: absolute;
+    right: 89.5%;
+    top: 50%;
+    margin-top: -0.625rem;
+    width: 0;
+    height: 0;
+    border-top: 1.25rem solid transparent;
+    border-bottom: 1.25rem solid transparent;
+    border-left: 1.25rem solid white;
+    border-right: 1.25rem solid transparent;
+
+
+}
+
+.trainer-info a {
+
+    margin-right: 0.3125rem;
+}
+
+.trainer-info h6 {
+    color: orangered;
+}
+
+
+/*Section-07----------------------------------*/
+
+
+.section-07 {
+
+    margin-bottom: 5%;
+
+}
+
+.section-07-title h1 {
+
+    padding-bottom: 1%;
+    margin-bottom: 1.5%;
+    display: inline-block;
+    border-bottom: 3px solid orangered;
+    font-weight: 700;
+
+}
+
+.section-07-title p {
+    padding-bottom: 2%;
+    font-weight: 300;
+
+
+}
+
+.news-box img {
+    width: 100%;
+
+}
+
+.news-box-info {
+    box-sizing: border-box;
+    padding: 4%;
+}
+
+.news-box p {
+    font-weight: 200;
+    padding-right: 5%;
+    display: inline-block;
+
+}
+
+.news-box {
+    border: 0.0625rem solid grey;
+}
+
+
+/*Section 08-----------------------------------*/
+
+
+
+#form {
+
+    background-image: url(../images/section-01-image.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+iframe {
+    margin-top: 0;
+}
+
+.form-overlay {
+
+    background-color: rgba(207, 128, 27, 0.2);
+    position: absolute;
+    box-sizing: border-box;
+    padding: 7%;
+    color: white;
+    line-height: 2;
+
+
+}
+
+#subject {
+    margin-top: 5%;
+
+}
+
+
+
+/*Section 09---------------------------------*/
+
+
+.section-09{
+    
+    color: lightblue;
+    position: relative;
+    
+}
+
+.second a{
+    
+    text-decoration: none;
+    color: lightblue;
+    padding-right: 4%;
+    padding-left: 4%;
+    border-right: 0.125rem solid lightblue;
+    
+}
+
+#no{
+    
+    border-right: 0px solid transparent;
+    
+}
+
+.icons{
+    
+    margin-right: 10%;
+    
+}
+
+.icons i{
+    
+    padding-right: 2%;
+    font-size: 1.2rem;
+    
+}

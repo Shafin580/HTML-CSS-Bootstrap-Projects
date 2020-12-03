@@ -1,0 +1,414 @@
+/*Fonts
+
+font-family: 'Roboto', sans-serif;
+
+
+
+*/
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/*Nav-bar CSS Starts*/
+
+.navbar {
+    overflow: hidden;
+    background-color: #ecfbfc;
+    padding: 0 5%;
+    line-height: 2;
+
+}
+
+.nav-logo-section {
+    float: left;
+    width: 40%
+}
+
+.nav-logo-section img {
+    height: 5.8125rem;
+    float: left;
+}
+
+.nav-link-section {
+    float: left;
+    width: 60%;
+    padding-left: 25%;
+    box-sizing: border-box;
+}
+
+.nav-link-section ul {
+    list-style: none;
+}
+
+.nav-link-section ul li {
+    display: inline-block;
+    padding: 1.5625rem;
+    font-size: 1.25rem;
+}
+
+.nav-link-section ul li:hover {
+    border: 0.0625rem solid black;
+}
+
+.nav-link-section ul li a {
+    text-decoration: none;
+}
+
+
+
+/*Nav-bar CSS Ends*/
+
+
+/*Top section CSS Starts*/
+
+.top-section {
+    text-align: center;
+    background-image: url(../images/travel-beach.jpg);
+    background-position: center;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    line-height: 2;
+}
+
+.overlay {
+    background-color: rgba(108, 124, 46, 0.3);
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.overlay h1 {
+    padding-top: 15rem;
+    padding-bottom: 1.25rem;
+    color: aqua;
+    font-size: 2.5rem;
+}
+
+.overlay p {
+    padding-bottom: 2.5rem;
+    color: white;
+    font-size: 1.25rem;
+}
+
+.overlay a {
+    text-decoration: none;
+    padding: 0.625rem 1.875rem;
+    border-radius: 1.25rem 1.25rem;
+    color: white;
+    box-shadow: 0 0.25rem 0.25rem 0 black;
+}
+
+.overlay a:hover {
+    background-color: yellow;
+    color: red;
+}
+
+.btn01 {
+    margin-right: 0.0625rem;
+    background-color: aqua;
+}
+
+.btn02 {
+    background-color: black;
+}
+
+/*Top section CSS Ends*/
+
+/*Middle Section CSS Starts*/
+
+.middle-section {
+    line-height: 2;
+}
+
+.middle-section-title {
+    text-align: center;
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.middle-section-title h1 {
+    padding-bottom: 1.25rem;
+
+}
+
+.middle-section-title p {
+    font-size: 1.0625rem;
+    font-weight: 400;
+}
+
+.middle-section-parent {
+    overflow: hidden;
+    padding-top: 12.5rem;
+    padding: 6.25rem 6.25rem;
+
+}
+
+.middle-child-left {
+    float: left;
+    text-align: left;
+    width: 45%;
+    padding-top: 12.5rem;
+    box-sizing: border-box;
+    margin-left: 2%;
+}
+
+.middle-child-left h1 {
+    font-size: 2.5rem;
+    color: aqua;
+}
+
+.middle-child-left p {
+    font-size: 1.25rem;
+}
+
+.middle-child-left ul {
+    list-style: none;
+    font-size: 1.25rem;
+}
+
+
+.middle-child-right {
+    float: left;
+    width: 50%;
+    padding-left: 12.5rem;
+    padding-top: 9.375rem;
+    box-sizing: border-box;
+
+}
+
+.middle-child-right img {
+    height: 25rem;
+    border: 0.1875rem solid black;
+}
+
+/*Middle Section CSS Ends*/
+
+
+/*Bottom Section CSS Starts*/
+
+.upper-bottom-section {
+    margin-top: 10%;
+    line-height: 2;
+}
+
+.upper-bottom-section a:hover {
+    background-color: yellow;
+}
+
+.upper-bottom-section-title {
+    margin-bottom: 5%;
+    text-align: center;
+    font-size: 1.5625rem;
+    color: aqua;
+}
+
+.upper-bottom-section-child-01 {
+    overflow: hidden;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.upper-bottom-section-child-01 a {
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 1.5625rem;
+    padding: 0.625rem 1.5625rem;
+    border-radius: 0.5rem;
+    background-color: aqua;
+    color: white;
+    box-shadow: 0 0.25rem 0.25rem 0 grey;
+}
+
+
+
+.upper-bottom-section-child-02 {
+    overflow: hidden;
+    margin-top: 1.5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.upper-bottom-section-child-02 a {
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 1.5625rem;
+    padding: 0.625rem 1.5625rem;
+    border-radius: 0.5rem;
+    background-color: aqua;
+    color: white;
+    box-shadow: 0 0.25rem 0.25rem 0 grey;
+}
+
+
+
+
+.box-02,
+.box-03,
+.box-04,
+.box-05,
+.box-06 {
+    background-color: #ecfbfc;
+    float: left;
+    width: 30.3%;
+    margin: 0% 1.5%;
+    text-align: center;
+    padding: 5.3125rem 1.25rem;
+    box-sizing: border-box;
+}
+
+.box-01 {
+    background-color: #ecfbfc;
+    float: left;
+    width: 30.3%;
+    margin: 0% 1.5%;
+    text-align: center;
+    padding-bottom: 4.5625rem;
+    padding-top: 5.3125rem;
+    padding-right: 1.25rem;
+    padding-left: 1.25rem;
+    box-sizing: border-box;
+}
+
+.bottom-partition {
+    margin-top: 4%;
+    text-align: center;
+    height: 18.75rem;
+    background-image: url(../images/bg-section-traveler.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    line-height: 2;
+}
+
+.bottom-partition-overlay {
+    background-color: rgba(58, 68, 128, 0.3);
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+
+}
+
+.bottom-partition h1 {
+    padding-top: 6.25rem;
+    padding-bottom: 0.5rem;
+    color: white;
+}
+
+.bottom-partition a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 0.625rem 2.1875rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+    border-radius: 0.3125rem;
+    background-color: aqua;
+    color: white;
+    box-shadow: 0 0.25rem 0.25rem 0 black;
+}
+
+.bottom-partition a:hover {
+    background-color: black;
+}
+
+.lower-bottom-section {
+    margin: 8% 0;
+    line-height: 2;
+}
+
+.lower-bottom-section h1 {
+    padding-bottom: 2%;
+    text-align: center;
+    font-size: 2.5rem;
+    color: aqua;
+}
+
+.lower-bottom-section-parent {
+    overflow: hidden;
+    margin: 0 2.5%;
+}
+
+.lower-bottom-section-parent a {
+    display: inline-block;
+    margin-top: 0.9375rem;
+    text-decoration: none;
+    padding: 0.625rem 1.5625rem;
+    background-color: aqua;
+    color: white;
+    border-radius: 0.625rem;
+    box-shadow: 0 0.25rem 0.25rem 0 grey;
+
+
+}
+
+.lower-bottom-section-parent img {
+    height: 32rem;
+    border: 0.125rem solid aqua;
+}
+
+.lower-bottom-section-parent a:hover {
+    background-color: greenyellow;
+}
+
+.team-box-01 {
+    text-align: center;
+    float: left;
+    box-sizing: border-box;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 2% 0;
+}
+
+.team-box-02,
+.team-box-03 {
+    text-align: center;
+    float: left;
+    box-sizing: border-box;
+    margin-right: 5%;
+    padding: 2% 0;
+
+}
+
+.footer {
+    text-align: center;
+    line-height: 2;
+}
+
+.footer h1 {
+    padding-bottom: 1.5625rem;
+}
+
+.footer p {
+    padding-bottom: 2.1875rem;
+}
+
+.footer-child {
+    background-color: #21243d;
+    height: 3.125rem;
+}
+
+.footer-child p {
+    color: aliceblue;
+    padding-top: 0.75rem;
+    color: aqua;
+}
+
+/*Bottom Section CSS Ends*/

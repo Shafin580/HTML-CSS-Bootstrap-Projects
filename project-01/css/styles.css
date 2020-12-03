@@ -1,0 +1,202 @@
+nav img {
+    height: 6.25rem;
+    width: 6.25rem;
+
+}
+
+.section-01 {
+    background-image: url(../images/overlay-image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 50rem;
+
+}
+
+#overlay-content {
+    color: white;
+    margin-left: 50%;
+    padding-top: 10%;
+}
+
+#overlay-content-2 {
+    color: white;
+    margin-left: 50%;
+    padding-top: 
+}
+
+.btn-lg {
+    border-radius: 1.875rem;
+}
+
+
+#title-btn {
+    padding-top: 3%;
+}
+
+#houses{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+#houses img{
+    width: 100%;
+}
+
+#houses h6{
+    font-weight: 300;
+}
+
+.box img{
+    width: 8%;
+    height: 8%;
+    border-radius: 50%;
+    margin: 1.875rem;
+    margin-left: 47%;
+}
+
+#c-1{
+    background-color: #900c3f;
+    color: aliceblue;
+    padding-bottom: 3%;
+}
+
+#c-2{
+    background-color: #900c3f;
+    color: aliceblue;
+    padding-bottom: 3%;
+}
+
+#c-3{
+    background-color: #900c3f;
+    color: aliceblue;
+    padding-bottom: 3%;
+}
+
+.carousel-indicators li{
+    width: 0.625rem;
+    height: 0.625rem;
+    border-radius: 100%;
+}
+
+.section-03{
+    margin-top: 10%;
+}
+
+.section-03 img{
+    width: 95%;
+}
+
+.section-03 p{
+    font-weight: 300;
+}
+
+.section-04{
+    margin-top: 10%;
+    
+}
+
+i{
+    font-size: 3.75rem;
+    color: #0779e4;
+}
+
+.section-04 p{
+    font-weight: 300;
+}
+
+.section-04-box{
+    width: 90%;
+}
+
+.section-05{
+    margin-top: 7%;
+    background-color: #f4f4f4;
+    line-height: 2;
+    height: 37.5rem;
+}
+
+.section-05-title{
+    padding-top: 6.25rem;
+    text-align: center;
+    
+}
+
+.section-05-title p{
+    font-weight: 300;
+}
+
+.blog-box h6{
+    font-weight: 100;
+}
+
+.blog-box img{
+    width: 100%;
+}
+
+.blog-box{
+    background-color: white;
+}
+
+.section-06{
+    
+    color: white;
+    
+}
+
+.section-06 .container{
+    background-color: #0779e4;
+    width: 73%;
+}
+
+.section-06 p{
+    font-weight: 100;
+    color: antiquewhite;
+}
+
+.section-06 a{
+    text-decoration: none;
+    color: antiquewhite;
+    display: block;
+    padding-bottom: 7%;
+    font-weight: 100;
+}
+
+#form i{
+    font-size: 1.25rem;
+    color: antiquewhite;
+}
+
+#form a{
+    display: inline-block;
+    margin-left: -2.5rem;
+    margin-top: 0.3125rem;
+}
+
+input[type=email]{
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid white;
+    
+}
+
+input[type=email]::placeholder{
+    color: antiquewhite;
+}
+
+
+#icon a{
+    display: inline-block;
+}
+
+#icon i{
+    font-size: 1.25rem;
+    color: antiquewhite;
+}
+
+#first-row{
+    padding-top: 5%;
+    height: 21.875rem;
+    border-bottom: 1px solid white;
+    margin-bottom: 3.125rem;
+}
